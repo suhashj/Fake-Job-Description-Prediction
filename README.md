@@ -1,6 +1,6 @@
-## Fake-Job_Description_prediction
+# Fake-Job_Description_prediction
 
-# Project Overview
+## Project Overview
 This project aims to detect fake job descriptions using machine learning techniques. We utilize Bi-LSTM (Bidirectional Long Short-Term Memory), Bag of Words, and TF-IDF (Term Frequency-Inverse Document Frequency) for text processing and classification. The goal is to build a predictive model that can distinguish between real and fake job postings based on textual data.
 
 Table of Contents
